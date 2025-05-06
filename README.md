@@ -3,7 +3,7 @@
 Sources for practice lecture about containers used in NSWI026 MFF UK and SEPA4M33SEP, FEL CVUT. This should be a simple example for CI/CD, it's not recommended for a production usage.
 
 ## Tasks
-
+ 
 1. Take a look on basic usage of GitHub workflows.
     - https://web.archive.org/web/20240119131452/https://docs.github.com/en/actions/examples/using-scripts-to-test-your-code-on-a-runner
     - https://docs.github.com/en/actions/quickstart
